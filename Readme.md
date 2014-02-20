@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [wilmoore/to-array.js](http://github.com/wilmoore/to-array.js). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/wilmoore-to-array.js`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # to-array.js [![Build Status](https://travis-ci.org/wilmoore/to-array.js.png?branch=master)](https://travis-ci.org/wilmoore/to-array.js) [![Build Status](https://david-dm.org/wilmoore/to-array.js.png)](https://david-dm.org/wilmoore/to-array.js) [![NPM version](https://badge.fury.io/js/to-array.js.png)](http://badge.fury.io/js/to-array.js)
 
   Converts primitives and objects (plain or array-like) to a sensible array representation for [Node.js][] and the browser.
